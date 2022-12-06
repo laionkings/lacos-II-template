@@ -35,3 +35,14 @@ const filmes = [
 ]
 
 // escreva seu código abaixo 👇🏻
+
+for (i in filmes){
+
+  for( j of filmes[i].elenco){
+
+  }
+  
+}
+
+console.log(filmes[0])
+console.log(filmes[0].elenco)
